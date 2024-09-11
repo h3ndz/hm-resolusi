@@ -2,3 +2,5 @@ HM RESOLUSI
 - Konsisten Bekerja
 - Membuat framework pekerjaan
 - Membuat target Pekejaan
+- Membuat Aplikasi HC
+- Membuat kolaborasi pengembangan aplikasi
